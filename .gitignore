@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# OS generated files
+.DS_Store
+
+# IDE generated files
+.idea/
+
 # Distribution / packaging
 .Python
 build/
