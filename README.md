@@ -8,7 +8,7 @@ Technologies I've used:
 To run the application, you'll need to:
 
 1. Clone the repo on your local machine;
-2. Create virtualenv;
+2. Create virtualenv and activate it --> `source {env_folder}/bin/activate`;
 3. Install required dependencies by running `pip install -r requirements.txt` command;
 4. Run the Flask app by running `flask run` command in your terminal (make sure before running `flask run` to set
    the `FLASK_APP` env variable --> `export FLASK_APP=app/app.py`).
